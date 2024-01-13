@@ -2,6 +2,10 @@ let score = "hitesh"
 
 //console.log(typeof score);
 //console.log(typeof(score));
+// if we convert a string lets say 
+let a="22a"
+let b=Number(a)
+//then type of b will be NaN
 
 let valueInNumber = Number(score)
 //console.log(typeof valueInNumber);
